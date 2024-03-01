@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://cdn.jsdelivr.net/gh/jasminder/flutter_preloader/preload.svg';
+svgImage.src = 'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/s-m-b-blank-97w75z/assets/kcwzmyjfm4ht/tube-spinner.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;

@@ -18,8 +18,8 @@ const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
 svgImage.src = 'https://raw.githubusercontent.com/MajorHodl/bhopesalonloadingscript/bee5a65f7bdea1f579e7348eefbbc61729a4962a/preloadBlack.svg';
 svgImage.style.cssText = `
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 20%;
+    max-height: 20%;
     display: none;
     position: absolute;
     top: 50%;

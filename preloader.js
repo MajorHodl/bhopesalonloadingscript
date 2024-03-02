@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://raw.githubusercontent.com/MajorHodl/bhopesalonloadingscript/main/preloadBlack.svg';
+svgImage.src = 'https://raw.githubusercontent.com/MajorHodl/bhopesalonloadingscript/main.js';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
